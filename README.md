@@ -21,3 +21,7 @@ Pick a general location of the image to place the main object
 ### Result
 
 **Result should be a pixelated but working image**
+
+-[] Getting input
+-[] Creating Image
+-[] Working image
